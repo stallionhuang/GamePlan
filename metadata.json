@@ -1,0 +1,5 @@
+{
+  "name": "Today's Game Plan",
+  "description": "A one-page website that displays schedules and scores for your favorite sports happening today. If no games are on, it shows recent results and upcoming matches.",
+  "requestFramePermissions": []
+}
